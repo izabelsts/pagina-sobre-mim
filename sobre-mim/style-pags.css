@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
+
+body {
+    background-attachment: fixed;
+    font-family: Dosis, sans-serif;
+    color: #ffffff;
+    background-image: linear-gradient(#707070, #cecece);
+}
+
+h1 {
+    font-size: 40px;
+    text-shadow: 1px 2px #ffffffb6;
+    text-align: center;
+    color: #000000;
+    margin: 5px;
+    
+}
+
+.boxProfissao {
+    width: 350px;
+    border: 10px solid #000000;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px;
+    background-color: #000000;
+    position: absolute;
+    left: 410px;
+    top: 55px;
+}
+
+.boxReligiao {
+    width: 350px;
+    border: 10px solid #000000;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px;
+    background-color: #000000;
+    position: absolute;
+    left: 415px;
+    top: 55px;
+}
+
+.boxFamilia {
+    width: 450px;
+    border: 10px solid #000000;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px;
+    background-color: #000000;
+    position: absolute;
+    left: 365px;
+    top: 55px;
+}
+
+.boxMusica {
+    width: 400px;
+    border: 10px solid #000000;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px;
+    background-color: #000000;
+    position: absolute;
+    left: 388px;
+    top: 55px;
+}
+
+.botaoVoltar {
+    position: fixed;
+    top: 10px;
+    left: 40px;
+    padding: 1px;
+    border-radius: 10px;
+}

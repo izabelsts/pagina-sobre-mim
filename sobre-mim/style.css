@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
+
+*{
+    background-attachment: fixed;
+}
+
+body {
+    background-image: linear-gradient(#707070, #cecece);
+    font-family: Dosis, sans-serif;
+    color: #000000;
+    font-size: 45px;
+    
+}
+
+#frase {
+    text-align: center;
+    position: relative;
+    top: 75px;
+}
+
+.ftPrincipal {
+    text-align: center;
+    border-radius: 3px;
+    position: relative;
+    top: 80px;
+
+}
+
+#setinha1 {
+    position: absolute;
+    left: 310px;
+    top: 550px;
+}
+
+.data-science {
+    position: absolute;
+    left: 270px;
+    top: 630px;
+    background-color: rgb(236, 236, 236);
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 8px;
+}
+
+#setinha2 {
+    position: absolute;
+    left: 510px;
+    top: 550px;
+}
+
+.bible {
+    position: absolute;
+    left: 470px;
+    top: 630px;
+    background-color: rgb(236, 236, 236);
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 8px;
+}
+
+#setinha3 {
+    position: absolute;
+    left: 710px;
+    top: 550px;
+}
+
+.family {
+    position: absolute;
+    left: 670px;
+    top: 630px;
+    background-color: rgb(236, 236, 236);
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 8px;
+}
+
+#setinha4 {
+    position: absolute;
+    left: 910px;
+    top: 550px;
+}
+
+
+.guitar {
+    position: absolute;
+    left: 870px;
+    top: 630px;
+    background-color: rgb(236, 236, 236);
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
